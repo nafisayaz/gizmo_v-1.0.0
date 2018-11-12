@@ -1,0 +1,8 @@
+
+
+
+all:
+	python server.py
+
+
+
